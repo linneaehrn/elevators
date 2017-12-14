@@ -37,7 +37,7 @@ Implement the elevator system and make it as real as possible when it comes to t
 suited for a waiting floor, more requests than available elevators and so on.
 
 Write a test or a simulation that runs the system with a number of floors and elevators. The numbers should be flexible 
-and the system must work with one to many elevators.
+and the system must work with one to many (limited to the language or operating system MAX_INT) elevators.
 
 Document how we start, simulate and monitor your solution. If there is a GUI or logging for monitoring does not matter 
 as long as you describe how it is supposed to be done.
