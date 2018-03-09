@@ -20,7 +20,7 @@ There are two interfaces to implement.
 There are a few classes and files added to get you faster up and running. It is not mandatory to use these classes in 
 your solution but you can use them to cut time in boiler plate coding.
 
- * `ElevatorApiController` for REST features. If you would like to use them in a test or to support a GUI here is already a basic skeleton class for you
+ * `ElevatorApiController` for REST features. If you would like to use them in a test or to support a GUI here is a basic skeleton class for you
 
  * `ElevatorApplication` class for starting the Spring container and there are a few beans you can use as well
  
@@ -33,7 +33,7 @@ your solution but you can use them to cut time in boiler plate coding.
 
 ## What We Expect
 
-Implement the elevator system and make it as real as possible when it comes to the logic. Which elevator is best 
+Implement the elevator system and make it as __real as possible__ when it comes to the logic. Which elevator is best 
 suited for a waiting floor, more requests than available elevators and so on.
 
 Write a test or a simulation that runs the system with a number of floors and elevators. The numbers should be flexible 
@@ -47,7 +47,7 @@ time to add or if you have future changes in mind, write comments or document th
 
 ### Deliver Your Solution
 
-Add the code to a github or bitbucket repository. You can also make an archive of the project and e-mail it to us. 
+Send a Pull Request from your fork to our upstream repository.
 
 __We would like to see your solution within 7 days.__
  
